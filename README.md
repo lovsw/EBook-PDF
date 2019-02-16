@@ -18,6 +18,8 @@ IT PDF电子书
 2. Hive编程指南.pdf
 3. Spark大数据处理技术.pdf
 4. 大数据Spark企业级实战版.pdf
+5. Hadoop大数据处理.pdf
+6. Hadoop核心技术.pdf
 
 ----------
 
@@ -31,4 +33,23 @@ IT PDF电子书
 1. 疯狂Java讲义第3版.pdf
 
 ----------
+
+#### Python #### 
+1. Python核心编程第3版中文版.pdf
+2. Python自动化运维 技术与最佳实践.pdf
+3. 趣学python编程中文版.pdf
+
+----------
+
+#### Android #### 
+1. 第一行代码-android.pdf
+
+
+----------
+
+#### 运维监控 #### 
+1. Zabbix监控系统深度实践.pdf
+
+----------
+
 
