@@ -13,6 +13,25 @@
 
 #### 数据库 #### 
 1. MySQL技术内幕InnoDB存储引擎第2版.pdf
+2. 深入浅出MySQL++数据库开发、优化与管理维护+第2版+唐汉明.pdf
+
+----------
+
+#### Linux #### 
+1. Linux Shell编程从入门到精通.张昊.pdf
+
+----------
+
+#### Scala #### 
+1. SCALA程序设计-JAVA虚拟机多核编程实战5.pdf
+
+----------
+
+#### JavaWeb #### 
+1. MyBatis技术.pdf
+2. Spring MVC学习指南（第2版）.pdf
+3. 看透springMvc源代码分析与实践.pdf
+4. 深入浅出MyBatis技术原理与实战.pdf
 
 ----------
 
@@ -45,6 +64,19 @@
 4. OSGI原理与最佳实践.pdf
 5. 深入分析Java  Web技术内幕  修订版.pdf
 6. 实战JAVA虚拟机  JVM故障诊断与性能优化.pdf
+7. Java常用算法手册第三版本.pdf
+8. Java程序员的基本修养李刚编著.pdf
+9. Java程序员面试笔试宝典-何昊.pdf
+10. Java网络编程(第4版)((美)Elliotte Rusty Harold).pdf
+11. Java应用架构设计 模块化模式与OSGi.pdf
+12. 深入理解OSGi  Equinox原理、应用与最佳实践.pdf
+13. 实战Java高并发程序设计.pdf
+14. 数据结构与算法经典问题解析-Java语言描述.pdf
+
+----------
+
+#### 机器学习 #### 
+1. Java机器学习.pdf
 
 ----------
 
@@ -58,7 +90,6 @@
 #### Android #### 
 1. 第一行代码-android.pdf
 
-
 ----------
 
 #### 运维监控 #### 
@@ -69,6 +100,8 @@
 
 #### SpringBoot #### 
 1. JavaEE开发的颠覆者 Spring Boot实战.pdf
+2. 疯狂Spring Cloud微服务架构实战.pdf
+3. SpringBoot2精髓.pdf
 
 ----------
 
