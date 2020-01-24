@@ -90,6 +90,7 @@
 
 #### Android #### 
 1. 第一行代码-android.pdf
+2. Kotlin for android developers.pdf中文版翻译
 
 ----------
 
