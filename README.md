@@ -8,6 +8,7 @@
 #### 网络应用框架 ####
 1. Netty权威指南第2版.pdf
 2. HTTP权威指南.pdf
+3. 图解TCPIP.pdf
 
 ----------
 
@@ -89,6 +90,7 @@
 
 #### Android #### 
 1. 第一行代码-android.pdf
+2. Kotlin for android developers.pdf中文版翻译
 
 ----------
 
@@ -105,4 +107,9 @@
 
 ----------
 
+#### docker容器 #### 
+1. Kubernetes权威指南  从Docker到Kubernetes实践全接触.pdf
+2. Kubernetes实战-吴龙辉.pdf
+
+----------
 
